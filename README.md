@@ -1,2 +1,3 @@
 # datasciencecoursera
-evaluation.
+FIRST JOB
+I like read and play guitar.
